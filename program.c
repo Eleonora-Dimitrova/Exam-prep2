@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("%d", 2500);
+    printf("%d", 250);
 
 }
